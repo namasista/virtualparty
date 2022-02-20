@@ -265,6 +265,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"UtilitiesTiles",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Anna Fogel"
+                }],
          "spacing":0,
          "tilecount":24,
          "tileheight":32,
@@ -338,7 +344,7 @@
          "name":"[Base]BaseChip_pipo",
          "properties":[
                 {
-                 "name":"copyright",
+                 "name":"tilesetCopyright",
                  "type":"string",
                  "value":"https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32"
                 }],
@@ -355,6 +361,12 @@
          "imagewidth":1200,
          "margin":0,
          "name":"fireworks-g0ec6bf3b9_1920_klein",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"fireworks-g0ec6bf3b9_1920_klein: pixabay, nidan: https:\/\/pixabay.com\/de\/photos\/feuerwerk-himmel-neujahr-silvester-879461\/"
+                }],
          "spacing":0,
          "tilecount":925,
          "tileheight":32,

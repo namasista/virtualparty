@@ -372,6 +372,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"UtilitiesTiles",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Anna Fogel"
+                }],
          "spacing":0,
          "tilecount":24,
          "tileheight":32,
@@ -443,6 +449,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"[A]Wall-Up1_pipo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"PIPOYA FREE RPG TILESET 32x32 Pixel: https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32"
+                }],
          "spacing":0,
          "tilecount":48,
          "tileheight":32,
@@ -456,6 +468,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"LightShadow_pipo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"PIPOYA FREE RPG TILESET 32x32 Pixel: https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32"
+                }],
          "spacing":0,
          "tilecount":48,
          "tileheight":32,
@@ -471,7 +489,7 @@
          "name":"[Base]BaseChip_pipo",
          "properties":[
                 {
-                 "name":"copyright",
+                 "name":"tilesetCopyright",
                  "type":"string",
                  "value":"https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32"
                 }],
@@ -488,6 +506,12 @@
          "imagewidth":160,
          "margin":0,
          "name":"AnnasTiles",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Anna Fogel"
+                }],
          "spacing":0,
          "tilecount":25,
          "tileheight":32,

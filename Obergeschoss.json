@@ -15,7 +15,7 @@
                         {
                          "name":"openTab",
                          "type":"string",
-                         "value":"https:\/\/webwhiteboard.com\/board\/QyF6ODSTZlpGf8fqMgAHLl83bm8v86L3\/"
+                         "value":"https:\/\/webwhiteboard.com\/board\/iunNwytwRgMS4KTrisFzA3IfKxLhIb94\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -25,7 +25,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Trage dich ins G\u00e4stebuch ein! (Dr\u00fccke die Leertaste oder klicke hier, um die Webseite \"https:\/\/webwhiteboard.com\/\" in einem neuen Tab zu \u00f6ffnen)"
+                         "value":"Unser G\u00e4stebuch \/ Notre livre d'h\u00f4tes (Leertaste oder hier klicken f\u00fcr \/ Touche Espace ou clique ici pour: \"https:\/\/webwhiteboard.com\/\")"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -53,7 +53,7 @@
                         {
                          "name":"jitsiTriggerMessage",
                          "type":"string",
-                         "value":"Komm zum Ratschen in die Sofaecke! (Dr\u00fccke die Leertaste oder klicke hier, um dem Video-Raum Jitsi beizutreten.)"
+                         "value":"Unsere Sofaecke \/ Notre salon (Leertaste oder hier klicken f\u00fcr \/ Touche Espace ou clique ici pour: Jitsi Video-Raum \/ Espace Video)"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -81,7 +81,7 @@
                         {
                          "name":"jitsiTriggerMessage",
                          "type":"string",
-                         "value":"Komm zum Ratschen in die Sofaecke! (Dr\u00fccke die Leertaste oder klicke hier, um dem Video-Raum Jitsi beizutreten.)"
+                         "value":"Unsere Sofaecke \/ Notre salon (Leertaste oder hier klicken f\u00fcr \/ Touche Espace ou clique ici pour: Jitsi Video-Raum \/ Espace Video)"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -109,7 +109,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Spiele UNO! (Dr\u00fccke die Leertaste oder klicke hier, um zur Webseite \"https:\/\/www.buddyboardgames.com\/uno\" weitergeleitet zu werden)"
+                         "value":"Spiele UNO! \/ Jouer UNO! (Leertaste oder hier klicken f\u00fcr \/ Touche Espace ou clique ici pour: \"https:\/\/www.buddyboardgames.com\/uno\")"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -137,7 +137,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Spiele 4 Gewinnt! (Dr\u00fccke die Leertaste oder klicke hier, um zur Webseite \"https:\/\/www.buddyboardgames.com\/connect4\" weitergeleitet zu werden)"
+                         "value":"Spiele 4 Gewinnt! \/ Jouer puissance 4 ! (Leertaste oder hier klicken f\u00fcr \/ Touche Espace ou clique ici pour: \"https:\/\/www.buddyboardgames.com\/connect4\")"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -165,63 +165,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Spiele 4 Gewinnt! (Dr\u00fccke die Leertaste oder klicke hier, um zur Webseite \"https:\/\/www.buddyboardgames.com\/connect4\" weitergeleitet zu werden)"
-                        }],
-                 "type":"tilelayer",
-                 "visible":true,
-                 "width":28,
-                 "x":0,
-                 "y":0
-                }, 
-                {
-                 "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-                 "height":17,
-                 "id":16,
-                 "name":"Website - skribble",
-                 "opacity":1,
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/skribbl.io\/?isS7RoArDhRG"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Spiele Galgenm\u00e4nnchen! (Dr\u00fccke die Leertaste oder klicke hier, um zur Webseite \"https:\/\/skribbl.io\/\" weitergeleitet zu werden)"
-                        }],
-                 "type":"tilelayer",
-                 "visible":true,
-                 "width":28,
-                 "x":0,
-                 "y":0
-                }, 
-                {
-                 "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-                 "height":17,
-                 "id":28,
-                 "name":"Website - LoungeFM",
-                 "opacity":1,
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/\n"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Hier gibt's Lounge Musik! (Dr\u00fccke die Leertaste oder klicke hier, um zum Webradio \"LoungeFM\" weitergeleitet zu werden)"
+                         "value":"Spiele 4 Gewinnt! \/ Jouer puissance 4 ! (Leertaste oder hier klicken f\u00fcr \/ Touche Espace ou clique ici pour: \"https:\/\/www.buddyboardgames.com\/connect4\")"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -505,6 +449,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"UtilitiesTiles",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Anna Fogel"
+                }],
          "spacing":0,
          "tilecount":24,
          "tileheight":32,
@@ -578,7 +528,7 @@
          "name":"[Base]BaseChip_pipo",
          "properties":[
                 {
-                 "name":"copyright",
+                 "name":"tilesetCopyright",
                  "type":"string",
                  "value":"https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32"
                 }],
@@ -595,6 +545,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"[A]Wall-Up1_pipo",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"PIPOYA FREE RPG TILESET 32x32 Pixel: https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32"
+                }],
          "spacing":0,
          "tilecount":48,
          "tileheight":32,
@@ -608,6 +564,12 @@
          "imagewidth":416,
          "margin":0,
          "name":"WA_Seats",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"WorkAdventure"
+                }],
          "spacing":0,
          "tilecount":182,
          "tileheight":32,
@@ -621,6 +583,12 @@
          "imagewidth":384,
          "margin":0,
          "name":"WA_Decoration",
+         "properties":[
+                {
+                 "name":"tilesetCoypright",
+                 "type":"string",
+                 "value":"WorkAdventure"
+                }],
          "spacing":0,
          "tilecount":96,
          "tileheight":32,
@@ -630,12 +598,18 @@
          "columns":5,
          "firstgid":1415,
          "image":"src\/assets\/AnnasTiles.png",
-         "imageheight":160,
+         "imageheight":192,
          "imagewidth":160,
          "margin":0,
          "name":"AnnasTiles",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Anna Fogel"
+                }],
          "spacing":0,
-         "tilecount":25,
+         "tilecount":30,
          "tileheight":32,
          "tilewidth":32
         }],

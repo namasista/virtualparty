@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Entdecke den Sternenhimmel! (Dr\u00fccke die Leertaste oder klicke hier, um die Webseite \"https:\/\/skyandtelescope.org\/interactive-sky-chart\/\" in einem separaten Tab zu \u00f6ffnen)"
+                 "value":"Entdecke den Sternenhimmel \/ D\u00e9couvrir les \u00e9toiles  (Leertaste oder hier klicken f\u00fcr \/ Touche Espace ou clique ici pour: \"https:\/\/skyandtelescope.org\/interactive-sky-chart\/\")"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -266,6 +266,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"UtilitiesTiles",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Anna Fogel"
+                }],
          "spacing":0,
          "tilecount":24,
          "tileheight":32,
@@ -356,6 +362,12 @@
          "imagewidth":1920,
          "margin":0,
          "name":"beach-gb7da83895_1920",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"\uf0a7\tbeach-gb7da83895_1920: pixabay, Brun-O: https:\/\/pixabay.com\/de\/photos\/strand-sand-meer-see-wasser-4481919\/ "
+                }],
          "spacing":0,
          "tilecount":2340,
          "tileheight":32,
